@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Dataset files
+data/*.fvecs
+data/*.ivecs
+data/*.tar.gz
